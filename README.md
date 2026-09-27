@@ -152,28 +152,10 @@ Currently exploring:
   </a>
 </p>
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhoware&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoware&layout=compact&hide_border=true&langs_count=8" />
-</p>
 
----
 
-## ⭐ GitHub Overview
 
-<p align="center">
-
-<img src="https://img.shields.io/github/repos/Bhoware?style=for-the-badge&label=PUBLIC%20REPOSITORIES" />
-
-<img src="https://img.shields.io/github/stars/Bhoware?style=for-the-badge&label=TOTAL%20STARS" />
-
-<img src="https://img.shields.io/github/followers/Bhoware?style=for-the-badge&label=FOLLOWERS" />
-
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -183,46 +165,5 @@ Currently exploring:
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoware&hide_border=true&area=true" />
-</p>
 
----
-
-# 📅 GitHub Contribution Calendar
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhoware&theme=github" />
-
-</p>
-
----
-
-# 💻 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhoware&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bhoware/Bhoware/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-<h3 align="center">
-  Thanks for visiting my profile! 🚀
-</h3>
-
-<p align="center">
-  <i>Building, learning and shipping.</i>
-</p>
