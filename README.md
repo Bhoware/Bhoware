@@ -68,7 +68,7 @@ Currently exploring:
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
 </p>
 
 ### 🤖 AI / Machine Learning
