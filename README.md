@@ -144,42 +144,6 @@ Currently exploring:
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 💳 UPI Insight
-
-**UPI transaction categorization system**
-
-- Automatically categorizes transactions
-- Spending breakdown
-- Monthly spending analysis
-- FastAPI backend
-- ML-based transaction classification
-
-**Stack:** Python • FastAPI • ML • Hugging Face
-
-</td>
-
-<td width="50%">
-
-### ⚖️ NyayBot
-
-**Indian legal AI assistant**
-
-- Legal information retrieval
-- NLP-based classification
-- RAG-based architecture
-- Indian legal dataset processing
-- LLM integration
-
-**Stack:** Python • RAG • LangChain • NLP • LLMs
-
-</td>
-
-</tr>
 </table>
 
 <p align="center">
@@ -187,8 +151,6 @@ Currently exploring:
     <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
 
 # 📊 GitHub Analytics
 
